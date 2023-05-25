@@ -41,6 +41,6 @@ $atm->deposit(100);    // Deposit of 100 successful.
 $atm->checkBalance();  // Current balance: 100
 $atm->withdraw(50);    // Withdrawal of 50 successful.
 $atm->checkBalance();  // Current balance: 50
-$atm->withdraw(100);   // Insufficient balance.
+ 
 
 ?>
